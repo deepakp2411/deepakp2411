@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @deepakp2411
 - 👀 I’m interested in full stack develpoer/ Mern stack.
-- 🌱 I’m currently learning html css javascript Nodejs Express Mongodb Reactjs
 - 💞️ I’m looking to collaborate on .
 - 📫 How to reach me ...
 
