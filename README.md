@@ -1,4 +1,4 @@
-- 👋 Hi..!! I'am Deepa Patel
+- 👋 Hi..! I'am Deepak Patel
 - 👀 I’m interested in full stack develpoer/ Mern stack/Front-End Developer/Backend Developer.
 - 💞️ I’m looking to collaborate on .
 - 📫 How to reach me ...
