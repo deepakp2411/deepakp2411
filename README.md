@@ -26,7 +26,7 @@
 Hi 👋 My name is Deepak
 =======================
 
-Web Developer
+Frontend Developer
 -------------
 
 Hey ! I am Deepak and I am striving for more I love to learn self. I am a self taught developer.
