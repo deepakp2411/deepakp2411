@@ -29,7 +29,7 @@ Hi 👋 My name is Deepak
 Frontend Developer
 -------------
 
-Hey ! I am Deepak and I am an aspiring self taught frontend developer.
+Hey ! I'm a self-taught passionate and an aspiring FrontEnd developer from India .
 
 * 🌍  I'm based in Ghaziabad ( U.P )
 * ✉️  You can contact me at [deepakjb.2411@gmail.com](mailto:deepakjb.2411@gmail.com)
