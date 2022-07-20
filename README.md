@@ -26,7 +26,7 @@
 Hi 👋 My name is Deepak
 =======================
 
-Frontend Developer
+
 -------------
 
 Hey ! I'm an aspiring Self taught FrontEnd developer from India .
