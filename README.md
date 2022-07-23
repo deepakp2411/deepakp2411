@@ -31,7 +31,7 @@
 * 🌍  I'm based in Ghaziabad ( U.P )
 * 🖥️  See my portfolio at [DEEPAK](http://deepakjb-portfolio.vercel.app)
 * ✉️  You can contact me at [deepakjb.2411@gmail.com](mailto:deepakjb.2411@gmail.com)
-* 🧠  I'm learning Html Css Javascript React Node Express MongoDb
+* 🧠  I'm currently working on Companies Projects and some Personal Projects
 * 🤝  I'm open to collaborating on Frontend / Mern stack /React Developer
 
 <a href="https://www.twitter.com/deepak_patel24" target="_blank" rel="noreferrer"><img
