@@ -26,7 +26,7 @@
 
 <h1 align="center">👋, I'm DEEPAK</h1>
 
-<h3 align="center">A Passionate frontend developer from India</h3>
+<h3 align="center"></h3>
 
 * 🌍  I'm based in Ghaziabad ( U.P )
 * 🖥️  See my portfolio at [DEEPAK](http://deepakjb-portfolio.vercel.app)
