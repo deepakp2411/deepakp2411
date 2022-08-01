@@ -32,7 +32,7 @@
 * 🖥️  See my portfolio at [DEEPAK](http://deepakjb-portfolio.vercel.app)
 * ✉️  You can contact me at [deepakjb.2411@gmail.com](mailto:deepakjb.2411@gmail.com)
 * 🧠  I'm currently working on  some Personal Projects
-* 🤝  I'm open to collaborating on Frontend / Mern stack /React Developer
+* 🤝  I'm open to collaborating on Frontend / Mern stack /React JS
 
 <a href="https://www.twitter.com/deepak_patel24" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/deepak_patel24?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
