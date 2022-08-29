@@ -35,7 +35,7 @@
 * 🌍  I'm based in Ghaziabad
 * ✉️  You can contact me at [deepakjb.2411@gmail.com](mailto:deepakjb.2411@gmail.com)
 * 🧠  I'm learning some new Techs
-* 🤝  I'm open to collaborating on Mern Stack /React JS / Front-end
+* 🤝  I'm open to collaborating on Mern Stack / Front-end
 
 <a href="https://www.twitter.com/deepak_patel24" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/deepak_patel24?logo=twitter&style=for-the-badge&color=22c55e&labelColor=000000"
