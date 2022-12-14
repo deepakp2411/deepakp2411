@@ -23,7 +23,7 @@
 ----------------------------------
 
 <h1 align="center">Hi 👋, I'm DEEPAK</h1>
-<h3 align="center">Mern Stack Developer from India</h3>
+<h3 align="center">MERN Stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakp2411&label=Profile%20views&color=0e75b6&style=flat" alt="deepakp2411" /> </p>
 
